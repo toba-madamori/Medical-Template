@@ -1,0 +1,10 @@
+{
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex"
+    ],
+    "python.pythonPath": "C:\\Users\\Toba\\Envs\\virtual\\Scripts\\python.exe"
+}
